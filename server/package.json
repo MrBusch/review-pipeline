@@ -1,0 +1,11 @@
+{
+  "name": "review-pipeline-server",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
